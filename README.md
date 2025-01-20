@@ -1,2 +1,2 @@
 # PHP29
-Pagina we
+Pagina web
