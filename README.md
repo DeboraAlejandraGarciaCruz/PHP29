@@ -1,2 +1,2 @@
 # PHP29
-Pagina web de plantas de 
+Pagina web de plantas de varios
