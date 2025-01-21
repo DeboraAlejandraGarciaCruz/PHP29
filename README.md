@@ -1,3 +1,3 @@
 # PHP29
-Pagina web de plantas de varios tipos
+Pagina web de plantas de varios 
 
